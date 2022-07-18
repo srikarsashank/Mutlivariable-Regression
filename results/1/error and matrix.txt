@@ -1,0 +1,7 @@
+EPOCHS = 1000
+learning_rate = 0.8
+degree = 1
+training error =[1.18733697]
+testing error = [1.11774589]
+[[ 1.1076657   1.60078757]
+ [-2.90384315 -0.00726756]]

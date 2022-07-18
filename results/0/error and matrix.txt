@@ -1,0 +1,3 @@
+training error =[5.90951444]
+testing error = [5.65560865]
+[[0.5004329]]
